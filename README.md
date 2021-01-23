@@ -1,3 +1,3 @@
 # Startup Landing Page
 
-URL: https://tonyngyn.github.io/startup-landingpage/
+URL: https://newyentony.github.io/startup-landingpage/
